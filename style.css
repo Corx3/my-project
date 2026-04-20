@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 40px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.left-side img {
+    width: 200px;
+    border-radius: 10px;
+}
+
+.right-side h1 {
+    margin-bottom: 10px;
+}
+
+.right-side p {
+    color: #333;
+}
+
+.right-side ul {
+    margin-bottom: 20px;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 21, 255);
+}
+.red{
+    color: red;
+}
+.blue{
+    color: rgb(0, 119, 255);
+}
+.yellow{
+    color: yellow;
+}
